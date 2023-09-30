@@ -1,0 +1,26 @@
+.button-name {
+    align-items: center;
+    appearance: none;
+    background: linear-gradient(to bottom, white 5%, #AEAEAE 100%);
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: white;
+    box-sizing: border-box;
+    color: lightseagreen;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: Arial,monospace;
+    height: 30px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    font-size: 18px;
+}

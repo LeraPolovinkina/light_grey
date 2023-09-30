@@ -1,0 +1,164 @@
+.main{
+    width: 800px;
+}
+
+.who_we_are{
+    font-size: 24px;
+}
+
+.chair{
+    width: 130px;
+    height: 130px;
+    border-style: solid;
+    padding: 5px;
+    border-color: white;
+    border-width: 1px;
+}
+
+.span {
+    font-style: italic;
+    color: darkcyan;
+    font-size: 13px;
+}
+
+.chairFoto{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.about_us_text{
+    margin-left: 20px;
+    margin-top: -1px;
+    font-size: 13px;
+    width: 500px;
+}
+
+.our_services{
+    font-size: 24px;
+}
+
+.our_services_text{
+    font-size: 13px;
+    width: 500px;
+}
+
+.left_content_text{
+    width: 500px;
+    font-size: 12px;
+}
+
+.left_content_text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.texts{
+    font-size: 13px;
+}
+
+.secondText{
+    font-size: 13px;
+}
+
+.under{
+    color: darkcyan;
+}
+
+.btn_more{
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 3px;
+    width: 60px;
+    background-color: lightgray;
+    border-color: #939393;
+    border-width: 1px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.btn_more2{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    padding: 3px;
+    width: 60px;
+    background-color: lightgray;
+    border-color: #939393;
+    border-width: 1px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.wrapper2{
+    display: flex;
+}
+
+.ourNews{
+    padding-left: 30px;
+}
+
+.our_news_title{
+    font-size: 24px;
+}
+
+.our_news_text{
+    display: flex;
+    justify-content: space-between;
+    width: 270px;
+    font-size: 13px;
+}
+
+.text_our_news{
+    color: darkcyan;
+    margin-top: -5px;
+    margin-left: 15px;
+}
+
+.our_news_under_text{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    margin-top: 30px;
+    width: 270px;
+    font-size: 13px;
+}
+
+.threeOrangen{
+    height: 85px;
+}
+
+.underFoto2{
+    font-size: 12px;
+}
+
+.underTextsOurNews{
+    margin-left: 15px;
+    margin-top: -6px;
+    color: darkcyan;
+}
+
+.titelTestimonials{
+    padding-top: 10px;
+}
+
+.testimonials_title{
+    font-size: 24px;
+}
+
+.testimonials_text{
+    font-style: italic;
+    font-size: 13px;
+}
+
+.lorem_ipsum{
+    color: darkcyan;
+    font-size: 13px;
+}
+

@@ -1,0 +1,156 @@
+.main{
+    width: 800px;
+}
+
+.line{
+    border: 1px solid grey;
+    margin-top: 50px;
+    width: 480px;
+    background: grey;
+}
+
+.date{
+    font-size: 14px;
+}
+
+.web_templates{
+    color: darkcyan;
+    font-weight: 600;
+}
+
+.titleSed{
+    font-weight: 350;
+}
+
+.line2{
+    margin-top: -5px;
+    margin-bottom: 30px;
+}
+
+.background_layer{
+    background-color: #fff;
+    border-radius: 2px;
+    height: 180px;
+    width: 480px;
+}
+
+.stairs{
+    width: 450px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.lorem p{
+    width: 480px;
+    font-size: 14px;
+    color: grey;
+}
+
+.more_btn{
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    margin-bottom: 30px;
+    padding: 3px;
+    width: 60px;
+    background-color: lightgray;
+    border-color: #939393;
+    border-width: 1px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.more_btn2{
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    margin-bottom: 30px;
+    padding: 3px;
+    width: 60px;
+    background-color: lightgray;
+    border-color: #939393;
+    border-width: 1px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.silca{
+    font-weight: 600;
+    color: darkcyan;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+.wrapper3{
+    display: flex;
+}
+
+.categories{
+    margin-top: 50px;
+    font-size: 24px;
+    margin-left: 40px;
+}
+
+.under2{
+    color: darkcyan;
+    margin-left: 40px;
+    font-size: 13px;
+}
+
+.right_orange_1{
+    display: flex;
+    width: 270px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.right_orange_1_text{
+    margin-left: 20px;
+    margin-top: -15px;
+    font-size: 12px;
+}
+
+.t{
+    font-size: 12px;
+    color: darkcyan;
+}
+
+.right_orange_2{
+    display: flex;
+    width: 270px;
+    margin-left: 40px;
+}
+
+.right_title{
+    margin-left: 40px;
+    font-size: 24px;
+}
+
+.underFoto{
+    font-size: 11px;
+    justify-content: right;
+}
+
+.zxc{
+    font-style: italic;
+    margin-left: 40px;
+    font-size: 13px;
+}
+
+.me{
+    margin-top: 20px;
+    font-weight: 600;
+    margin-left: 40px;
+}
+
+.qa{
+    color: darkcyan;
+}
+
+
+

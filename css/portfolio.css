@@ -1,0 +1,60 @@
+.main{
+    width: 800px;
+}
+
+.portfolio_title{
+    font-weight: 350;
+    font-size: 24px;
+}
+
+.portfolio_text{
+    width: 800px;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.first_row{
+    display: flex;
+    margin-top: 50px;
+    width: 800px;
+}
+
+.project{
+    position: relative;
+    margin-top: -70px;
+    padding-left: 30px;
+    padding-top: 10px;
+    color: #fff;
+}
+
+.blocks{
+    position: relative;
+    height: 40px;
+    width: 120px;
+    color: black;
+    background-color: black;
+}
+
+.pic1{
+    position: absolute;
+}
+
+.pic2{
+    margin-left: 275px;
+    position: absolute;
+}
+
+.pic3{
+    margin-left: 550px;
+}
+
+
+.second_row{
+    display: flex;
+    margin-top: 50px;
+    width: 800px;
+}
+
+footer{
+    margin-top: 100px;
+}
